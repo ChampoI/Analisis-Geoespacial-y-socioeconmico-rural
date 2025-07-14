@@ -5,6 +5,7 @@ Este proyecto analiza cómo se distribuye la tierra y los regímenes de tenencia
 ## 📄 Descripción del dataset
 
 El conjunto de datos contiene información sobre:
+- https://www.datos.gov.co/dataset/Censo-Nacional-Agropecuario-Uso-de-la-tierra/f9jj-yx8h/about_data
 
 - **Distribución de coberturas y usos del suelo:**
   - `HaNatura`: Hectáreas con cobertura natural.
