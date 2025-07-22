@@ -34,6 +34,22 @@ https://www.datos.gov.co/dataset/Censo-Nacional-Agropecuario-Uso-de-la-tierra/f9
   - `LATITUDE`, `LONGITUDE`, `ELEVATION`: Datos geográficos.
   - `cluster`: Agrupación de municipios según características de uso y tenencia.
 
+## 🖼️ Gráficas del Análisis
+
+### 📊 Histograma - Distribución de hectáreas agropecuarias
+![Histograma HaAgro](./assets/histograma_HaAgro.png)
+
+---
+
+### 🏙️ Top 30 municipios según uso agropecuario
+![Top 30 Municipios HaAgro](./assets/top_municipios_HaAgro.png)
+
+---
+
+### 🎯 Distribución por Clúster (Violin Plot)
+![Violin Plot por Clúster](./assets/violin_cluster_HaAgro.png)
+
+
 ## ⚙️ Instrucciones de ejecución
 
 ### 1. Instalar dependencias
