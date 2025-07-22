@@ -49,29 +49,6 @@ https://www.datos.gov.co/dataset/Censo-Nacional-Agropecuario-Uso-de-la-tierra/f9
 ### 🎯 Distribución por Clúster (Violin Plot)
 ![Violin Plot por Clúster](./assets/violin_cluster_HaAgro.png)
 
-
-## ⚙️ Instrucciones de ejecución
-
-### 1. Instalar dependencias
-```bash
-pip install pandas matplotlib seaborn scikit-learn plotly dash
-```
-
-### 2. Ejecutar análisis por etapas
-```bash
-python 1_analisis_exploratorio.py
-python 2_limpieza_datos.py
-python 3_modelo_clustering.py
-python 4_visualizaciones.py
-```
-
-### 3. Ejecutar dashboard interactivo
-```bash
-python 5_dashboard_agro.py
-```
-
-Esto abrirá una interfaz en el navegador donde se pueden explorar variables por municipio, departamento y clúster.
-
 ---
 
 ## 📊 Guía para interpretar las gráficas del dashboard
@@ -104,3 +81,25 @@ Esto abrirá una interfaz en el navegador donde se pueden explorar variables por
 - Identificar regiones con potencial de desarrollo agropecuario.
 - Aplicar políticas diferenciadas según características territoriales.
 - Detectar acumulación o concentración de tierra.
+
+## ⚙️ Instrucciones de ejecución
+
+### 1. Instalar dependencias
+```bash
+pip install pandas matplotlib seaborn scikit-learn plotly dash
+```
+
+### 2. Ejecutar análisis por etapas
+```bash
+python 1_analisis_exploratorio.py
+python 2_limpieza_datos.py
+python 3_modelo_clustering.py
+python 4_visualizaciones.py
+```
+
+### 3. Ejecutar dashboard interactivo
+```bash
+python 5_dashboard_agro.py
+```
+
+Esto abrirá una interfaz en el navegador donde se pueden explorar variables por municipio, departamento y clúster.
