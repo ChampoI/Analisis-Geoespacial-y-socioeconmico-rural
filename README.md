@@ -68,7 +68,7 @@ https://www.datos.gov.co/dataset/Censo-Nacional-Agropecuario-Uso-de-la-tierra/f9
 
 ---
 
-## 📌 Ejemplo de interpretación
+## 📌 Interpretación
 
 - **Cluster 2**: Municipios con más hectáreas agropecuarias. Mediana > 1 millón de ha.
 - **Cluster 1**: Municipios más homogéneos en superficie productiva.
